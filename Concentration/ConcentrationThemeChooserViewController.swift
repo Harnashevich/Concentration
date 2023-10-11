@@ -15,12 +15,6 @@ class ConsentrationThemeChooserViewController: UIViewController {
         "Faces": "😀😂😎😫😰😴😵‍💫🤔😘😷",
     ]
     
-
-    
-//    @IBAction func changeTheme(_ sender: Any) {
-//        performSegue(withIdentifier: "Choose Theme", sender: sender)
-//    }
-    
     // MARK: - Navigation
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
